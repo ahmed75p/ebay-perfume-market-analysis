@@ -1,4 +1,7 @@
-###🧴 eBay Perfume Market Analysis Dashboard
+# 🧴eBay Perfume Market Analysis Dashboard
+
+---
+
 
 Overview
 
@@ -15,7 +18,12 @@ Geographical demand
 
 
 
-##📂 Repository Structure
+---
+
+
+
+
+###📂 Repository Structure
 
 
 📦 eBay-Perfume-Market-Analysis/
@@ -40,7 +48,13 @@ Geographical demand
 
 
 
-##📊 Dataset Description
+
+---
+
+
+
+
+### 📊 Dataset Description
 
 
 Each record includes:
@@ -67,15 +81,29 @@ itemLocation → City / Country
 
 
 
-##⚠️ Dataset Source
+---
+
+
+
+
+### ⚠️ Dataset Source
 
 ![Perfume E-Commerce Dataset]([images/market_analysis.png](https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024))
 
 
-##🔍 Project Workflow
+---
 
 
-##1️⃣ Data Loading & Merging
+
+### 🔍 Project Workflow
+
+
+
+
+### 1️⃣ Data Loading & Merging
+
+
+
 
 Loaded two datasets:
 
@@ -92,7 +120,10 @@ Created a new column:
 2 - Sales
 
 
-##2️⃣ Data Understanding
+
+
+
+### 2️⃣ Data Understanding
 
 Explored:
 
@@ -111,7 +142,11 @@ Invalid prices
 Messy location formats
 
 
-##3️⃣ Data Cleaning & Preprocessing
+
+
+
+
+### 3️⃣ Data Cleaning & Preprocessing
 
 Handled:
 
@@ -135,9 +170,12 @@ Outliers and logical errors
 
 This step simulates real-world messy e-commerce data cleaning.
 
+
+
+
  
 
-##4️⃣ Power BI Data Modeling
+###  4️⃣ Power BI Data Modeling
 
 Created many business measures such as:
 
@@ -176,8 +214,12 @@ Optimal price range
 Most expensive brand & type
 
 
+---
 
-##⚙️ Tools & Technologies
+
+
+
+### ⚙️ Tools & Technologies
 
 Python: pandas, numpy
 
@@ -189,15 +231,20 @@ GitHub
 
 
 
+---
 
 
-##📊 Dashboard Pages
+
+### 📊 Dashboard Pages
 
 
 #The Power BI dashboard consists of 4 main pages:
 
 
-#📈 Market Analysis
+
+
+
+### 📈 Market Analysis
 
 Market size overview
 
@@ -208,7 +255,10 @@ Type distribution
 Sales & availability overview
 
 
-#👥 Customer Insights
+
+
+
+### 👥 Customer Insights
 
 Best selling brands
 
@@ -219,7 +269,9 @@ Sales distribution by ranges
 Customer demand patterns
 
 
-#💰 Price Optimization
+
+
+### 💰 Price Optimization
 
 Price distribution
 
@@ -230,7 +282,9 @@ Most expensive & cheapest brands
 Relation between price and sales
 
 
-#🌍 Geographical Distribution
+
+
+### 🌍 Geographical Distribution
 
 Sales by country
 
@@ -243,7 +297,13 @@ Sold quantity
 Revenue
 
 
-## 📸 Dashboard Screenshots
+
+---
+
+
+
+### 📸 Dashboard Screenshots
+
 
 ![Market Analysis](https://github.com/ahmed75p/ebay-perfume-market-analysis/blob/main/ebay_images/market%20analysis.png)
 ![Customer Insights](https://github.com/ahmed75p/ebay-perfume-market-analysis/blob/main/ebay_images/customer%20insights.png)
@@ -253,7 +313,11 @@ Revenue
 
 
 
-##💡 Key Insights
+---
+
+
+### 💡 Key Insights
+
 
 A small number of brands dominate total sales
 
@@ -266,7 +330,13 @@ Certain cities and countries generate much higher demand
 Availability does not always mean higher sales
 
 
-##🚀 Scope of This Project
+
+---
+
+
+
+
+###  🚀 Scope of This Project
 
 This project demonstrates:
 
@@ -282,9 +352,11 @@ End-to-end data analysis workflow
 
 
 
+---
 
 
-##🔮 Future Work
+
+### 🔮 Future Work
 
 Sales prediction models
 
@@ -295,6 +367,7 @@ Customer segmentation
 Demand forecasting by country
 
 
+---
 
 
 ### 🧑‍💻 Author
