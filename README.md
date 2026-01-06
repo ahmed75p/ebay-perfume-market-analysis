@@ -88,7 +88,7 @@ itemLocation → City / Country
 
 ### ⚠️ Dataset Source
 
-![Perfume E-Commerce Dataset]([images/market_analysis.png](https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024))
+[Perfume E-Commerce Dataset](https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024)
 
 
 ---
